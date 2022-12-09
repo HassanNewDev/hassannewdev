@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
+Experienced Frontend Developer with a demonstrated history of working in the program development industry. Skilled in Problem Solving, Front-end Development, JavaScript, Web Development, and React.js.
+
 * 🌍  I'm based in UK
 * 🖥️  See my portfolio at [My-Portfolio](http://1portfolio-one.vercel.app/ )
 * ✉️  You can contact me at [mrhassanabdi1@gmail.com](mailto:mrhassanabdi1@gmail.com)
