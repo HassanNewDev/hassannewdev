@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-* 🌍  I'm based in UK
-* ✉️  You can contact me at [mrhassanabdi1@gmail.com](mailto:mrhassanabdi1@gmail.com)
-* 🤝  I'm open to collaborating on Projects
+* 🌍  I'm based in UK
+* 🖥️  See my portfolio at [My-Portfolio](http://1portfolio-one.vercel.app/ )
+* ✉️  You can contact me at [mrhassanabdi1@gmail.com](mailto:mrhassanabdi1@gmail.com)
+* 🤝  I'm open to collaborating on Projects
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -25,7 +25,6 @@ Frontend Developer
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
-
 
 ### Socials
 
